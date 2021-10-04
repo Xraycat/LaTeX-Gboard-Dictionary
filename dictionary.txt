@@ -908,3 +908,4 @@ _rp	₎
 \male	♂	
 \female	♀	
 \dalet	ℸ
+\starequals ≛ 
