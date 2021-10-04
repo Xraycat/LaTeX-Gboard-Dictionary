@@ -928,4 +928,5 @@ _rp	₎
 \doublebarwedge	⩞	
 \perspcorrespond	⩞	
 \daleth	ℸ	
-^epsilon	ᵋ	
+\epsilon	ᵋ	
+\rightangle ∟
